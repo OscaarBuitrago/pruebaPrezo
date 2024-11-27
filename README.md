@@ -28,7 +28,7 @@ Este proyecto ha sido desarrollado en Laravel (>= 9.0) para cumplir los requisit
 
 ## Instalación
 1. Clonar este repositorio:
-   - git clone <URL_DEL_REPOSITORIO>
+   - git clone https://github.com/OscaarBuitrago/pruebaPrezo.git
    - cd pruebaPrezo
 
 2. Instalar dependencias:
